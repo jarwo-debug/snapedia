@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<!DOCTYPE html>
+<html>
+
+<head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link type="text/css" rel="stylesheet" href="assets_snapinfo/css/materialize.css" media="screen,projection" />
+      <link rel="stylesheet" type="text/css" href="assets_snapinfo/css/style.css">
+      <link rel="stylesheet" type="text/css" href="assets_snapinfo/css/animate.min.css">
+      <link rel="stylesheet" type="text/css" href="assets_forum/assets/vendor/font-awesome/css/font-awesome.min.css">
+      <link rel="stylesheet" type="text/css" href="assets/ionicons.min.css">
+      <link rel="stylesheet" type="text/css" href="assets_forum/assets/css/styleku.css" />
+      <link rel="shortcut icon" href="assets_snapinfo/img/properti/fd.png">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta name="description" content="Snapinfopedia" />
+      <meta name="copyright" content="Snapinfopedia">
+      <meta name="language" content="Indonesia">
+      <meta name="robots" content="index,follow" />
+      <meta name="Classification" content="Business">
+      <meta name="author" content="Jarwo, jjaarr.id@gmail.com">
+      <meta name="designer" content="Jarwo, jjaarr.id@gmail.com">
+      <meta name="reply-to" content="jjaarr.id@gmail.com">
+      <meta name="owner" content="Jarwo">
+      <meta name="url" content="https://www.snapinfo.com">
+      <meta name="identifier-URL" content="https://www.snapinfo.com">
+      <meta name="category" content="Business">
+      <!-- <meta name="theme-color" content="#2d2d2d"> -->
+      <title>Official SNAPINFOPEDIA</title>
+  </head>
+  <body id="home" class="scrollspy">
+
+  <!-- navbar  -->
+    <div class="navbar-fixed">
+        <!-- Data Dropdown Sidenav -->
+        <ul id="dropdown1" class="dropdown-content">
+            <li class="divider"></li>
+            <li><a href="#contact">Aplikasi</a></li>
+            <li class="divider"></li>
+            <li><a href="#contact">Panduan</a></li>
+        </ul>
+
+        <!-- Data Dropdwon Navbar -->
+
+        <ul id="dropdown2" class="dropdown-content">
+            <li class="divider"></li>
+            <li><a href="#contact">Aplikasi</a></li>
+            <li class="divider"></li>
+            <li><a href="#contact">Panduan</a></li>
+        </ul>
+
+        <nav class="teal darken-3 bg-gradient">
+            <div class="container">
+                <div class="nav-wrapper">
+                    <a href="#home" style="font-family: 'Dancing Script', cursive;"
+                        class="light flow-text white-text">Snapinfopedia</a>
+                    <a href="#" data-target="mobile-nav" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+                    <ul class="right hide-on-med-and-down">
+                        <li><a href="#about">About Us</a></li>
+                        <li><a href="#partners">Partners</a></li>
+                        <li><a href="#services">Services</a></li>
+                        <li><a href="#portfolio">Portfolio</a></li>
+                        <li><a href="#contact">Contact Us</a></li>
+                        <li><a href="#follow">Follow</a></li>
+                        <!-- <li><a class="dropdown-trigger" href="#"  data-target="dropdown1">Download<i class="material-icons right">arrow_drop_down</i></a></li> -->
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+
+    <!-- sidenav -->
+
+    <ul class="sidenav bg-gradient-sidebar" id="mobile-nav">
+        <div class="row">
+            <div class="col m3 s3">
+                <img style="width: 100%; padding-left: 20px; padding-top: 20px;"
+                    src="assets_snapinfo/img/properti/fd.png">
+            </div>
+            <div style="padding-top: 17px;" class="col m9 s9">
+                <span style="color: white !important;">OFFICIAL SNAPINFOPEDIA<br><small>Solusi Media Center
+                        Pendidikan</small></span>
+            </div>
+        </div>
+        <div><a href="">
+                <hr style="color: grey;"></a></div>
+        <li><a style="color: white !important; padding-right: 0px;" href="#home"> Home</a></li>
+        <li><a style="color: white !important;" href="#about">About Us</a></li>
+        <li><a style="color: white !important;" href="#partners">Partners</a></li>
+        <li><a style="color: white !important;" href="#services">Services</a></li>
+        <li><a style="color: white !important;" href="#portfolio">Portfolio</a></li>
+        <li><a style="color: white !important;" href="#contact">Contact Us</a></li>
+        <li><a style="color: white !important;" href="#follow">Follow</a></li>
+        <!-- <li><a style="color: white !important;" class="dropdown-trigger" href="#!" data-target="dropdown1">Demo Aplikasi<i class="material-icons white-text right">arrow_drop_down</i></a></li> -->
+        <div><a href="">
+                <hr style="color: grey;"></a></div>
+        <div class="row">
+            <div class="col m3 s3">
+                <img style="width: 100%; padding-left: 20px; padding-top: 20px;"
+                    src="assets_snapinfo/img/profile/owner.png">
+            </div>
+            <div style="padding-top: 17px;" class="col m9 s9">
+                <span style="color: white !important;">Jarwo<br><small>Bengkulu, Indonesia</small></span>
+            </div>
+        </div>
+        <li>
+            <a href="https://www.youtube.com/c/GanangSetiaji"><img style="padding-left: 55px; width: 49%;"
+                    src="assets_snapinfo/img/medsos/yt-white.png"></a>
+        </li>
+        <li>
+            <a href="https://instagram.com/ganang.setiaji"><img style="padding-left: 55px; width: 60%;"
+                    src="assets_snapinfo/img/medsos/ig-white.png"></a>
+        </li>
+        <li>
+            <a href="https://www.facebook.com/6anan9"><img style="padding-left: 55px; width: 60%;"
+                    src="assets_snapinfo/img/medsos/fb.png"></a>
+        </li>
+        <li>
+            <a href="https://twitter.com/SetiajiGanang"><img style="padding-left: 55px; width: 60%;"
+                    src="assets_snapinfo/img/medsos/tw.png"></a>
+        </li>
+        <li>
+            <small style="padding: 30px; color: white !important;" class="light" href="https://www.snapinfo.com/">
+                &copy; Official SNAPINFOPEDIA 2015 - 2020</small>
+        </li>
+    </ul>
+
+    <!-- slidebar -->
+
+<div class="row">
+      <div class="col m3 s12"></div>
+      <div class="col m6 s12 center">
+        <img class="" src="assets_snapinfo/img/properti/404.svg">
+          <div class="text-center mt-3 mb-3">
+            <h3  style="font-size: 20px;"><b>Oppss ! Anda Menemukan Halaman 404 Kami</b></h3>
+            <div  style="font-size: 14px;">Ini bukan kesalahan, hanya sebuah kecelakaan yang tak terduga <i class="ion-android-happy"></i></div>
+            <br>
+            <a style="border-radius: 30px;" href="index.php" class="btn btn-outline-g7"><i class="fa fa-reply"></i> &nbsp Kembali</a>
+          </div>
+      </div>
+</div>
+
+      <!-- footer -->
+      <footer class="page-footer teal">
+        <div class="container">
+          <div class="row">
+            <div class="col l6 s12">
+              <h5 class="grey-text text-lighten-4">About Owner</h5>
+              <p class="white-text text-lighten-4">Seorang yang penuh dengan kesederhanaan, yang selalu berusaha dan belajar dengan hal-hal baru yang bermanfaat. <br>
+              #Owner snapinfo.com <br>
+              #Satgas Dapodik Direktorat PSMA. <br>
+              #Jangan lupa {titik koma}.
+            </div>
+            <div class="col l4 offset-l2 s12">
+              <h5 class="grey-text text-lighten-4">Sosial Media</h5>
+              <ul>
+                <li><a class="white-text text-lighten-3" href="https://www.facebook.com/6anan9">Facebook</a></li>
+                <li><a class="white-text text-lighten-3" href="https://twitter.com/SetiajiGanang">Twitter</a></li>
+                <li><a class="white-text text-lighten-3" href="https://instagram.com/ganang.setiaji">Instagram</a></li>
+                <li><a class="white-text text-lighten-3" href="https://www.youtube.com/c/GanangSetiaji">Youtube</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="footer-copyright teal darken-3 bg-gradient-g3">
+          <div class="container">
+          &copy; Official Snapinfopedia 2015 - 2020
+          <a class="grey-text text-lighten-4 right" href="#!">Jarwo Shankz</a>
+          </div>
+        </div>
+      </footer>
+      <!--JavaScript at end of body for optimized loading-->
+      <script type="text/javascript" src="assets_snapinfo/js/materialize.min.js"></script>
+      <script src="assets_snapinfo/dist/sweetalert2.all.min.js"></script>
+      <script src="assets_forum/assets/vendor/jquery/jquery.min.js"></script>
+      <script type="text/javascript" src="assets_snapinfo/js/snapinfo.js"></script>
+      <script type="text/javascript" src="assets_snapinfo/js/wow.min.js"></script>
+        <script>
+      new WOW().init();
+      </script>
+    </body>
+  </html>
